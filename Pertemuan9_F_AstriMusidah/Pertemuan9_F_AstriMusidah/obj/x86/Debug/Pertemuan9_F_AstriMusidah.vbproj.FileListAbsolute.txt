@@ -1,0 +1,3 @@
+c:\users\unong\documents\visual studio 2010\Projects\Pertemuan9_F_AstriMusidah\Pertemuan9_F_AstriMusidah\obj\x86\Debug\Pertemuan9_F_AstriMusidah.Form1.resources
+c:\users\unong\documents\visual studio 2010\Projects\Pertemuan9_F_AstriMusidah\Pertemuan9_F_AstriMusidah\obj\x86\Debug\Pertemuan9_F_AstriMusidah.Resources.resources
+c:\users\unong\documents\visual studio 2010\Projects\Pertemuan9_F_AstriMusidah\Pertemuan9_F_AstriMusidah\obj\x86\Debug\Pertemuan9_F_AstriMusidah.vbproj.GenerateResource.Cache
