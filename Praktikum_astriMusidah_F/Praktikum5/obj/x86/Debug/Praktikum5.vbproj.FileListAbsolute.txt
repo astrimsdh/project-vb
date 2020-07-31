@@ -1,0 +1,9 @@
+c:\users\unong\documents\visual studio 2010\Projects\Praktikum5\Praktikum5\bin\Debug\Praktikum5.exe
+c:\users\unong\documents\visual studio 2010\Projects\Praktikum5\Praktikum5\bin\Debug\Praktikum5.pdb
+c:\users\unong\documents\visual studio 2010\Projects\Praktikum5\Praktikum5\bin\Debug\Praktikum5.xml
+c:\users\unong\documents\visual studio 2010\Projects\Praktikum5\Praktikum5\obj\x86\Debug\Praktikum5.Form1.resources
+c:\users\unong\documents\visual studio 2010\Projects\Praktikum5\Praktikum5\obj\x86\Debug\Praktikum5.Resources.resources
+c:\users\unong\documents\visual studio 2010\Projects\Praktikum5\Praktikum5\obj\x86\Debug\Praktikum5.vbproj.GenerateResource.Cache
+c:\users\unong\documents\visual studio 2010\Projects\Praktikum5\Praktikum5\obj\x86\Debug\Praktikum5.exe
+c:\users\unong\documents\visual studio 2010\Projects\Praktikum5\Praktikum5\obj\x86\Debug\Praktikum5.xml
+c:\users\unong\documents\visual studio 2010\Projects\Praktikum5\Praktikum5\obj\x86\Debug\Praktikum5.pdb
