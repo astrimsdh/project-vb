@@ -1,0 +1,10 @@
+c:\users\unong\documents\visual studio 2010\Projects\Tugas1_Penjualan_AstriMusidah\Tugas1_Penjualan_AstriMusidah\bin\Debug\Tugas1_Penjualan_AstriMusidah.exe
+c:\users\unong\documents\visual studio 2010\Projects\Tugas1_Penjualan_AstriMusidah\Tugas1_Penjualan_AstriMusidah\bin\Debug\Tugas1_Penjualan_AstriMusidah.pdb
+c:\users\unong\documents\visual studio 2010\Projects\Tugas1_Penjualan_AstriMusidah\Tugas1_Penjualan_AstriMusidah\bin\Debug\Tugas1_Penjualan_AstriMusidah.xml
+c:\users\unong\documents\visual studio 2010\Projects\Tugas1_Penjualan_AstriMusidah\Tugas1_Penjualan_AstriMusidah\obj\x86\Debug\Tugas1_Penjualan_AstriMusidah.Resources.resources
+c:\users\unong\documents\visual studio 2010\Projects\Tugas1_Penjualan_AstriMusidah\Tugas1_Penjualan_AstriMusidah\obj\x86\Debug\Tugas1_Penjualan_AstriMusidah.Penjualan.resources
+c:\users\unong\documents\visual studio 2010\Projects\Tugas1_Penjualan_AstriMusidah\Tugas1_Penjualan_AstriMusidah\obj\x86\Debug\Tugas1_Penjualan_AstriMusidah.vbproj.GenerateResource.Cache
+c:\users\unong\documents\visual studio 2010\Projects\Tugas1_Penjualan_AstriMusidah\Tugas1_Penjualan_AstriMusidah\obj\x86\Debug\Tugas1_Penjualan_AstriMusidah.exe
+c:\users\unong\documents\visual studio 2010\Projects\Tugas1_Penjualan_AstriMusidah\Tugas1_Penjualan_AstriMusidah\obj\x86\Debug\Tugas1_Penjualan_AstriMusidah.xml
+c:\users\unong\documents\visual studio 2010\Projects\Tugas1_Penjualan_AstriMusidah\Tugas1_Penjualan_AstriMusidah\obj\x86\Debug\Tugas1_Penjualan_AstriMusidah.pdb
+c:\users\unong\documents\visual studio 2010\Projects\Tugas1_Penjualan_AstriMusidah\Tugas1_Penjualan_AstriMusidah\obj\x86\Debug\Tugas1_Penjualan_AstriMusidah.astriMusidah.resources
